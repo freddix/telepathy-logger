@@ -1,11 +1,11 @@
 Summary:	Logging service for Telepathy
 Name:		telepathy-logger
-Version:	0.6.0
+Version:	0.8.0
 Release:	1
 License:	LGPL
 Group:		Applications
 Source0:	http://telepathy.freedesktop.org/releases/telepathy-logger/%{name}-%{version}.tar.bz2
-# Source0-md5:	f453c49e53898c64bc423f0fdf117290
+# Source0-md5:	e513eaa767344821073a0b7bb8b45217
 Patch0:		%{name}-configure.patch
 URL:		http://telepathy.freedesktop.org/wiki/Logger
 BuildRequires:	autoconf
